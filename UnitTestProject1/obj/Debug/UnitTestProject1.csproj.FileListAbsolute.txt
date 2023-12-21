@@ -1,0 +1,2 @@
+C:\Users\UltraBook 3.0\Desktop\PPS\LIVRABLES-FINAUX-master\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\UltraBook 3.0\Desktop\PPS\LIVRABLES-FINAUX-master\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
